@@ -87,7 +87,7 @@ npm run dev
 
 Point your browser to `http://localhost:5173`.
 
-## 🎮 Emulating SOC Operations
+##  Emulating SOC Operations
 
 1. **Trigger the Orchestrator:** Click the **"Manual Detection Orchestrator"** navigation tab and press **Run SOAR Engine Now**. This will simulate an Elastic Watcher ingesting the latest malicious log payload and escalating it.
 2. **Review Triage:** On the Dashboard, click the newly generated incident to review the **L1 AI Triage** & **MITRE Matrix**.
@@ -117,4 +117,4 @@ Point your browser to `http://localhost:5173`.
 - Escalation policies rely strictly on static threshold bounds verified directly by Elasticsearch aggregations.
 
 > **Note on Deployment & Local Usage:**
-> The live deployed version of this web application may not run to completion as the backend utilizes a paid tier of Elastic Cloud for its AI Inference capabilities. To experience the full functionality of this project, you will need to run it locally or deploy it yourself using your own paid Elastic Cloud credentials.
+> The live deployed version of this web application may not run to completion as the backend utilizes a paid tier of Elastic Cloud for its AI Inference capabilities. To experience the full functionality of this project, you will need to run it locally or deploy it yourself using your own paid Elastic Cloud credentials...
