@@ -1,1 +1,4 @@
 # The system's working's are documented here...
+An enterprise-grade Security Operations Center (SOC) orchestration platform built to automate Level 1 triage, accelerate Level 2 deep investigations, and autonomously generate Level 3 executive closure reports using Elastic Security and Google Gemini AI.
+
+This platform bridges the gap between raw Elasticsearch security telemetry and actionable, AI-enriched incident lifecycles dynamically rendered inside a modern React application.
